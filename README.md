@@ -11,9 +11,7 @@ and so on..
 ## Project flowchart
 ![image](https://user-images.githubusercontent.com/104006521/190279169-6d632154-9178-48d3-82ca-c20c5c502af1.png)
 ## Simulation
-![image](https://user-images.githubusercontent.com/104006521/190279350-bdbf9d5f-26c8-4a02-bea2-27499948321a.png)
-![image](https://user-images.githubusercontent.com/104006521/190279362-32d29a7c-2988-492c-8551-1b35d2f67ee1.png)
-![image](https://user-images.githubusercontent.com/104006521/190279372-0c245a8e-3517-4433-9f1e-0c2a8d429934.png)
+![image](https://user-images.githubusercontent.com/104006521/190279692-a646fce8-2edf-4ff6-ac9b-7fa75fa63b8b.png)
 ## Video 
 ![Default Mode](https://user-images.githubusercontent.com/104006521/190279278-c18d139b-df7e-4156-829f-882c3197f12e.gif)
 ![Heater Mode](https://user-images.githubusercontent.com/104006521/190279291-4728bbc4-5f18-4151-8557-b6a56e83c361.gif)
