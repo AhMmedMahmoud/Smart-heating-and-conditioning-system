@@ -7,7 +7,7 @@ microcontroller keeps reading temperature using temperature sensor then processe
 - If the air temperature is 20° or less, the heater and its red led are turned on and "Heater Mood" is displayed  on the LCD.
 - If the air temperature is 30° or more, the cooler and its blue led are turned on and "Cooler mood" is displayed  on the LCD.
 - If the air temperature is from 20° to 30°, green led is turned on and "default mood" is displayed  on the LCD
-- and so on..
+                                                 and so on..
 ## Project flowchart
 ![image](https://user-images.githubusercontent.com/104006521/190279169-6d632154-9178-48d3-82ca-c20c5c502af1.png)
 ## Simulation
