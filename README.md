@@ -3,7 +3,7 @@ This project was written in C using Microchip Studio and Proteus 8 professional.
 ## Aim
 simulate the embedded controller in a smart heating and conditioning system
 ## Procedure Details
-microcontroller keeps reading temperature using temperature sensor then processes the value.
+microcontroller keeps reading temperature using temperature sensor then processes the read.
 - If the air temperature is 20° or less, the heater and its red led are turned on and "Heater Mood" is displayed  on the LCD.
 - If the air temperature is 30° or more, the cooler and its blue led are turned on and "Air conditioner mood" is displayed  on the LCD.
 - If the air temperature is from 20° to 30°, green led is turned on "default mood" is displayed  on the LCD
